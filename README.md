@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fisrt
 
 To start your Phoenix app:
@@ -17,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# Phoenix
+>>>>>>> c74b47248edd5cd3a29685301b1c0f9354cd3944
